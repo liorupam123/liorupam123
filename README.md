@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rupam</h1>
 <h3 align="center">A passionate Programmer and Frontend Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan112&label=Profile%20views&color=0e75b6&style=flat" alt="sayan112" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🙋‍♂️ About Me
@@ -47,3 +46,9 @@
 <br/>
 
 <a href="https://github.com/liorupam123/github-readme-activity-graph"><img alt="Rupam Pakhira's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=liorupam123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=liorupam123">
+</a>
+<a href="https://github.com/liorupam123?tab=followers"><img src="https://img.shields.io/github/followers/liorupam123?label=Followers&style=social" alt="GitHub Badge"></a>
