@@ -15,16 +15,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sayanmaitra12" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayanmaitra12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maitra-sayan/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maitra-sayan/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sayan_11_maitra/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sayan_11_maitra/" height="30" width="40" /></a>
+<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
 <h3 align="left">Coding Profiles :</h3>
 <p align="left">
 <a href="https://leetcode.com/rupamlio10/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rupamlio10/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rupamlio10" target="_blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rupamlio10" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/liorupam/profile" target="_blank" ><img align="center" src="https://img.icons8.com/color/96/000000/GeeksforGeeks.png" alt="https://auth.geeksforgeeks.org/user/liorupam/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/liorupam/profile" target="_blank" ><img align="center" src="https://img.icons8.com/color/96/000000/GeeksforGeeks.png" alt="https://auth.geeksforgeeks.org/user/liorupam/profile" /></a>
 
 
 </p>
@@ -47,7 +48,7 @@
 
 <a href="https://github.com/liorupam123/github-readme-activity-graph"><img alt="Rupam Pakhira's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=liorupam123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-## ❤ Views and Followers
+## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=liorupam123">
 </a>
