@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rupam</h1>
-<h3 align="center">A passionate Programmer and Frontend Web Developer</h3>
+<h3 align="center">A passionate Programmer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
