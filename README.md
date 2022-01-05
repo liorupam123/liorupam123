@@ -17,15 +17,9 @@
 <a href = "https://twitter.com/rupam_lio"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/liorupam/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/rupam.pakhira.33/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-<a href="https://open.spotify.com/user/yn5gv9ixnr4iwghlmgfz0cag4"> <img src="https://img.icons8.com/fluency/48/000000/spotify.png"/></a>
+<a href=  "https://open.spotify.com/user/yn5gv9ixnr4iwghlmgfz0cag4"><img src="https://img.icons8.com/fluency/48/000000/spotify.png"/></a>
 
 </p>
-
-## Vibin' to🎧 :
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yn5gv9ixnr4iwghlmgfz0cag4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=yn5gv9ixnr4iwghlmgfz0cag4&redirect=true)
-
-<br>
 
 <h3 align="left">Coding Profiles :</h3>
 <p align="left">
