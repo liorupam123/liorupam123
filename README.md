@@ -20,6 +20,12 @@
 
 </p>
 
+## Vibin' to🎧 :
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z0stitqrmy6wak5ilurnuwnbq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=z0stitqrmy6wak5ilurnuwnbq&redirect=true)
+
+<br>
+
 <h3 align="left">Coding Profiles :</h3>
 <p align="left">
 <a href="https://leetcode.com/rupamlio10/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rupamlio10/" height="30" width="40" /></a>
