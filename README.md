@@ -23,7 +23,7 @@
 
 ## Vibin' to🎧 :
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z0stitqrmy6wak5ilurnuwnbq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=z0stitqrmy6wak5ilurnuwnbq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yn5gv9ixnr4iwghlmgfz0cag4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=yn5gv9ixnr4iwghlmgfz0cag4&redirect=true)
 
 <br>
 
