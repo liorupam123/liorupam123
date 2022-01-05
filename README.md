@@ -17,7 +17,7 @@
 <a href = "https://twitter.com/rupam_lio"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/liorupam/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/rupam.pakhira.33/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-<a href="https://open.spotify.com/user/yn5gv9ixnr4iwghlmgfz0cag4"> <img align="left" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /></a>
+<a href="https://open.spotify.com/user/yn5gv9ixnr4iwghlmgfz0cag4"> <img src="https://img.icons8.com/fluency/48/000000/spotify.png"/></a>
 
 </p>
 
