@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love to read Books and watch Football**
 
-<h3 align="left">Connect with me:</h3>
+### :envelope: Connect with me
 <p align="left">
 <a href = "https://www.linkedin.com/in/rupam-pakhira-250b2b1bb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/rupam_lio"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
@@ -21,7 +21,7 @@
 
 </p>
 
- ### 💻 Coding Profiles :
+ ### 💻 Coding Profiles
 <p align="left">
 <a href="https://leetcode.com/rupamlio10/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rupamlio10/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rupamlio10" target="_blank" ><img align="center" src="https://img.icons8.com/fluency/48/000000/codechef.png" alt="https://www.codechef.com/users/rupamlio10" height="30" width="40" /></a>
@@ -31,11 +31,11 @@
 
 </p>
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages and Tools
 <p align="left">  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <img src="https://img.icons8.com/fluency/42/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/fluency/42/000000/sublime-text.png"/> <img src="https://img.icons8.com/color/42/000000/notion--v1.png"/> </p>
 
-## Vibin' to🎧 :
+## 🎧 Vibin' to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yn5gv9ixnr4iwghlmgfz0cag4&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yn5gv9ixnr4iwghlmgfz0cag4&redirect=true)
 
