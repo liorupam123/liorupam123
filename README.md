@@ -24,9 +24,9 @@
 <h3 align="left">Coding Profiles :</h3>
 <p align="left">
 <a href="https://leetcode.com/rupamlio10/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rupamlio10/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rupamlio10" target="_blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rupamlio10" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rupamlio10" target="_blank" ><img align="center" src="https://img.icons8.com/fluency/48/000000/codechef.png" alt="https://www.codechef.com/users/rupamlio10" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/liorupam/profile" target="_blank" ><img align="center" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="https://auth.geeksforgeeks.org/user/liorupam/profile" /></a>
-<a href="https://www.hackerrank.com/liorupam" target="_blank" ><img align="center" src="https://img.icons8.com/windows/48/000000/hackerrank.png" alt="https://www.hackerrank.com/liorupam" /></a>
+<a href="https://www.hackerrank.com/liorupam" target="_blank" ><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="https://www.hackerrank.com/liorupam" /></a>
 
 
 </p>
