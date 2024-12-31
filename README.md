@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **JavaScript, Data structure & Algorithm**
+- 🌱 I’m currently learning ** Machine Learning, Data structure & Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/liorupam123](https://github.com/liorupam123)
 
