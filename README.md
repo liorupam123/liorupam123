@@ -3,13 +3,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Machine Learning, Data structure & Algorithm**
+- 🌱 I’m currently learning **Computer Graphics and Vision, Data structure & Algorithm**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/liorupam123](https://github.com/liorupam123)
 
 - 📫 How to reach me **liorupam@gmail.com**
 
-- ⚡ Fun fact **I love to read Books and watch Football**
+- ⚡ Fun fact **I love to read Books and watch Football**.
 
 ### :envelope: Connect with me
 <p align="left">
